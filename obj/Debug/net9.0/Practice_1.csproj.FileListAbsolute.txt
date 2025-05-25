@@ -1,0 +1,14 @@
+D:\c#\Exceptional Handling\Practice_1\bin\Debug\net9.0\Practice_1.exe
+D:\c#\Exceptional Handling\Practice_1\bin\Debug\net9.0\Practice_1.deps.json
+D:\c#\Exceptional Handling\Practice_1\bin\Debug\net9.0\Practice_1.runtimeconfig.json
+D:\c#\Exceptional Handling\Practice_1\bin\Debug\net9.0\Practice_1.dll
+D:\c#\Exceptional Handling\Practice_1\bin\Debug\net9.0\Practice_1.pdb
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.AssemblyInfoInputs.cache
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.AssemblyInfo.cs
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.csproj.CoreCompileInputs.cache
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.dll
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\refint\Practice_1.dll
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.pdb
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\Practice_1.genruntimeconfig.cache
+D:\c#\Exceptional Handling\Practice_1\obj\Debug\net9.0\ref\Practice_1.dll
